@@ -51,7 +51,8 @@ var Cars = [
     { car: 'Tesla Roadster', ID: 2, range: 180, powerUse: 3.5, plugs: [8], batterykWh: 50 },
     { car: 'Tesla Model S P60', ID: 3, range: 210, powerUse: 3.5, plugs: [25], batterykWh: 60 },
     { car: 'Tesla Model S P85', ID: 4, range: 300, powerUse: 3.5, plugs: [25], batterykWh: 85 },
-    { car: 'Renault Zoe', ID: 5, range: 80, powerUse: 3.5, plugs: [25], batterykWh: 22 }
+    { car: 'Renault Zoe', ID: 5, range: 80, powerUse: 3.5, plugs: [25], batterykWh: 22 },
+    { car: 'BMW i3', ID: 6, range: 75, powerUse: 3.5, plugs: [3, 25, 33], batterykWh: 22 }
 ];
 
 var defaultCar = 1 // Leaf Mk2
